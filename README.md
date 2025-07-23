@@ -22,19 +22,6 @@ Built with **TensorFlow.js** and **Google's Teachable Machine**, this project en
 - **Teachable Machine Image Model**
 - **Webcam API (MediaDevices.getUserMedia)**
 
----
-
-## 📂 Project Structure
-emotion-cam-ai/
-│
-├── index.html           # Main HTML interface
-├── style.css            # Styling and layout
-├── script.js            # Webcam integration and AI model logic
-├── model/                # Pre-trained model from Teachable Machine
-│   ├── model.json
-│   ├── metadata.json
-│   └── weights.bin
-
 
 
 ---
